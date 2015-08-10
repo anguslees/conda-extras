@@ -1,0 +1,4 @@
+package: extras
+script:
+  - conda build .
+build_targets: conda
